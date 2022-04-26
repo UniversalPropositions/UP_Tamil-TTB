@@ -1,0 +1,2664 @@
+# global.columns = ID UP:PRED UP:ARGHEADS UP:ARGSPANS
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s1
+# sent_id = test-s1
+# text = பிகாரி..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	translate.01	A1:4|A4:8	A1:3-4|A4:8-8
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s2
+# sent_id = test-s2
+# text = மத்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	implement.01	A1:2|AM-MNR:3	A1:1-2|AM-MNR:3-3
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	translate.01	A2:6|A1:8	A2:6-7|A1:8-8
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s3
+# sent_id = test-s3
+# text = உத்தரப..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	strengthen.01	AM-LOC:2	AM-LOC:1-4
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	inform.01	A0:6	A0:6-14
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s4
+# sent_id = test-s4
+# text = ஆனால் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	strengthen.01	A0:2|A1:4	A0:2-2|A1:4-4
+6	_	_	_
+7	_	_	_
+8	conduct.01	AM-DIS:1|A0:2	AM-DIS:1-1|A0:2-2
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s5
+# sent_id = test-s5
+# text = அதற்கு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	strengthen.01	A0:1|AM-TMP:3	A0:1-1|AM-TMP:2-4
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s6
+# sent_id = test-s6
+# text = கட்சி ..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	be.01	A1:1	A1:1-11
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s7
+# sent_id = test-s7
+# text = அதுபோன..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	win.01	AM-LOC:2|A1:4	AM-LOC:2-2|A1:4-4
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	be.01	A1:8	A1:2-8
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s8
+# sent_id = test-s8
+# text = மக்கள்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s9
+# sent_id = test-s9
+# text = பிகாரி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	cause.01	AM-LOC:1|AM-TMP:4|AM-TMP:9|A0:11	AM-LOC:1-1|AM-TMP:2-8|AM-TMP:9-9|A0:11-11
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s10
+# sent_id = test-s10
+# text = ஐ.பி.எ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	register.02	AM-LOC:12	AM-LOC:11-18
+20	_	_	_
+21	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s11
+# sent_id = test-s11
+# text = 20 ஓவர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	conduct.01	A1:4|A0:10	A1:1-4|A0:8-10
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s12
+# sent_id = test-s12
+# text = இவர் 2..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	arise.02	A0:1|AM-TMP:9	A0:1-1|AM-TMP:2-11
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s13
+# sent_id = test-s13
+# text = இது தொ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	offer.01	_	_
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s14
+# sent_id = test-s14
+# text = அதில்,..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	offer.01	A1:9	A1:8-9
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25-26	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29-30	_	_	_
+29	_	_	_
+30	_	_	_
+31-33	_	_	_
+31	_	_	_
+32	_	_	_
+33	be.01	_	_
+34	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s15
+# sent_id = test-s15
+# text = இதன் ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-10	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-15	_	_	_
+13	inform.01	_	_
+14	_	_	_
+15	be.01	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s16
+# sent_id = test-s16
+# text = இந்த வ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	order.01	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s17
+# sent_id = test-s17
+# text = இதையடு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-7	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25-26	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+41	_	_	_
+42	_	_	_
+43	_	_	_
+44	_	_	_
+45	_	_	_
+46	_	_	_
+47	_	_	_
+48	_	_	_
+49	_	_	_
+50	_	_	_
+51	_	_	_
+52	_	_	_
+53	_	_	_
+54	_	_	_
+55	_	_	_
+56	_	_	_
+57	_	_	_
+58	_	_	_
+59	_	_	_
+60	_	_	_
+61	_	_	_
+62	_	_	_
+63	_	_	_
+64	_	_	_
+65-66	_	_	_
+65	begin.01	A0:38	A0:37-55
+66	_	_	_
+67	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s18
+# sent_id = test-s18
+# text = மத்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-11	_	_	_
+9	appoint.01	A1:5|A2:8	A1:1-7|A2:8-8
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s19
+# sent_id = test-s19
+# text = இந்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s20
+# sent_id = test-s20
+# text = இந்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s21
+# sent_id = test-s21
+# text = அவர் எ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	go.02	A0:1|AM-TMP:3|A4:4	A0:1-1|AM-TMP:2-3|A4:4-4
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	ensure.01	A1:5|AM-NEG:10	A1:1-5|AM-NEG:10-10
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s22
+# sent_id = test-s22
+# text = அநேகமா..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	expect.01	AM-DIS:1|A0:2|A1:6	AM-DIS:1-1|A0:2-2|A1:6-9
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s23
+# sent_id = test-s23
+# text = இந்தப்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	go.02	A0:4	A0:4-5
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	state.01	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s24
+# sent_id = test-s24
+# text = அடுத்த..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	call.02	A2:17	A2:17-17
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	suggest.01	AM-TMP:5|A1:23	AM-TMP:1-6|A1:22-23
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s25
+# sent_id = test-s25
+# text = கேரள ம..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-10	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-19	_	_	_
+16	allow.01	A1:8	A1:6-8
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	agree.01	A0:3|A1:22	A0:1-4|A1:20-22
+24	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s26
+# sent_id = test-s26
+# text = 93 வயத..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	be.01	A1:5|A2:6	A1:1-5|A2:6-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s27
+# sent_id = test-s27
+# text = காய்ச்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	encounter.01	A1:5|A1:10	A1:5-5|A1:9-10
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	agree.01	A0:5|A1:10	A0:5-5|A1:7-10
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s28
+# sent_id = test-s28
+# text = அரசு ர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	award.01	AM-TMP:12|A1:15|A0:17	AM-TMP:12-13|A1:15-15|A0:17-17
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s29
+# sent_id = test-s29
+# text = அரசு ர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-25	_	_	_
+24	award.01	A0:15|A1:23	A0:15-15|A1:21-23
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34-35	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+41-42	_	_	_
+41	_	_	_
+42	_	_	_
+43	_	_	_
+44	_	_	_
+45	_	_	_
+46	_	_	_
+47	_	_	_
+48-49	_	_	_
+48	_	_	_
+49	_	_	_
+50	_	_	_
+51	_	_	_
+52	_	_	_
+53-54	_	_	_
+53	award.01	A1:52	A1:50-52
+54	_	_	_
+55	_	_	_
+56-57	_	_	_
+56	order.01	_	_
+57	_	_	_
+58	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s30
+# sent_id = test-s30
+# text = இதன் க..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17-18	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35-36	_	_	_
+35	_	_	_
+36	_	_	_
+37-38	_	_	_
+37	_	_	_
+38	_	_	_
+39-40	_	_	_
+39	award.01	A2:23|AM-TMP:33|A0:43	A2:23-27|AM-TMP:33-35|A0:42-43
+40	_	_	_
+41	_	_	_
+42	_	_	_
+43	_	_	_
+44-45	_	_	_
+44	agree.01	A1:39|A0:43	A1:5-41|A0:42-43
+45	_	_	_
+46	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s31
+# sent_id = test-s31
+# text = அமெரிக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23-24	_	_	_
+23	say.01	A0:2|A1:19	A0:1-4|A1:15-22
+24	be.01	A0:2|A1:17	A0:1-13|A1:15-23
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s32
+# sent_id = test-s32
+# text = இந்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	cancel.01	AM-TMP:2|A1:7	AM-TMP:2-2|A1:7-7
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	ask.02	AM-TMP:2	AM-TMP:1-14
+24	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s33
+# sent_id = test-s33
+# text = அவரது ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	suggest.01	A0:2	A0:1-8
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s34
+# sent_id = test-s34
+# text = இந்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s35
+# sent_id = test-s35
+# text = இந்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s36
+# sent_id = test-s36
+# text = உலக சு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	inform.01	A0:3	A0:1-12
+14	be.01	A0:3	A0:1-13
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s37
+# sent_id = test-s37
+# text = ஆனால் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	inform.01	AM-DIS:1|A0:3	AM-DIS:1-1|A0:2-13
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s38
+# sent_id = test-s38
+# text = 90 சதவ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	occur.01	A1:3|AM-LOC:5	A1:1-3|AM-LOC:4-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s39
+# sent_id = test-s39
+# text = எந்த வ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	occur.01	A1:9	A1:7-10
+13	_	_	_
+14	_	_	_
+15	suggest.01	A0:14	A0:14-14
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s40
+# sent_id = test-s40
+# text = 2002 ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-11	_	_	_
+9	conduct.01	AM-TMP:1|A1:8	AM-TMP:1-6|A1:7-8
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s41
+# sent_id = test-s41
+# text = மலேரிய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	occur.01	A1:6	A1:4-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s42
+# sent_id = test-s42
+# text = அங்கு ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s43
+# sent_id = test-s43
+# text = அதற்கு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	occur.01	A1:10	A1:9-10
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-18	_	_	_
+16	_	_	_
+17	_	_	_
+18	be.01	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s44
+# sent_id = test-s44
+# text = நொய்டா..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	throw.01	_	_
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	agree.01	_	_
+23	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s45
+# sent_id = test-s45
+# text = ஹைதராப..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	live.01	A0:4|AM-LOC:5|AM-TMP:8	A0:2-4|AM-LOC:5-5|AM-TMP:6-9
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s46
+# sent_id = test-s46
+# text = வழக்கம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	come.01	A1:7	A1:7-7
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s47
+# sent_id = test-s47
+# text = பின்னர..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	go.02	_	_
+5	throw.01	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	suggest.01	AM-TMP:1|A1:13	AM-TMP:1-1|A1:9-13
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s48
+# sent_id = test-s48
+# text = அவர் த..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	be.01	AM-TMP:2|AM-TMP:3|A1:7|AM-NEG:9	AM-TMP:2-6|AM-TMP:2-6|A1:7-7|AM-NEG:9-9
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s49
+# sent_id = test-s49
+# text = அவரது ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s50
+# sent_id = test-s50
+# text = தற்கொல..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	write.01	AM-CAU:5|A1:6|A0:7|AM-NEG:9	AM-CAU:2-5|A1:6-6|A0:7-7|AM-NEG:9-9
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s51
+# sent_id = test-s51
+# text = இதுகுற..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	inform.01	A0:6	A0:5-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s52
+# sent_id = test-s52
+# text = கணவன் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	say.01	A0:1|A1:6	A0:1-3|A1:5-7
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s53
+# sent_id = test-s53
+# text = தமிழ்ந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-17	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26-27	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	order.01	_	_
+30	_	_	_
+31-32	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	give.01	A0:5|A0:6	A0:1-7|A0:1-7
+35	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s54
+# sent_id = test-s54
+# text = உச்ச ந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	investigate.01	A0:3	A0:1-11
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s55
+# sent_id = test-s55
+# text = வீட்டு..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s56
+# sent_id = test-s56
+# text = பச்சைய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	attack.01	A0:7	A0:7-8
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s57
+# sent_id = test-s57
+# text = வார வி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23-24	_	_	_
+23	consider.01	A1:21	A1:20-22
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38-39	_	_	_
+38	_	_	_
+39	_	_	_
+40	be.01	A1:34|A2:38|AM-MOD:41	A1:33-34|A2:35-39|AM-MOD:41-41
+41	_	_	_
+42	_	_	_
+43	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s58
+# sent_id = test-s58
+# text = 1. ஒரு..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	accept.01	A1:10|AM-MOD:12	A1:7-10|AM-MOD:12-12
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s59
+# sent_id = test-s59
+# text = 2. இரு..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s60
+# sent_id = test-s60
+# text = 3. இரு..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	be.01	A1:2|A2:8	A1:2-2|A2:4-9
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s61
+# sent_id = test-s61
+# text = 4. இரு..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	stay.01	A1:2|AM-TMP:6|AM-MNR:7	A1:2-2|AM-TMP:4-6|AM-MNR:7-7
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s62
+# sent_id = test-s62
+# text = அதன் ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	recognize.01	AM-MNR:1|AM-MNR:4|A1:8|AM-MOD:10	AM-MNR:1-2|AM-MNR:4-4|A1:8-8|AM-MOD:10-10
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s63
+# sent_id = test-s63
+# text = இந்த ந..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	accept.01	A1:7	A1:5-7
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	accept.01	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	order.01	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	agree.01	A1:24	A1:16-24
+26	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s64
+# sent_id = test-s64
+# text = இந்த வ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	say.01	AM-LOC:2	AM-LOC:1-2
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	be.01	A1:6	A1:6-10
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	order.01	A1:17	A1:17-17
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s65
+# sent_id = test-s65
+# text = இந்திய..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-11	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s66
+# sent_id = test-s66
+# text = இந்த ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	fix.02	A1:2|A0:3	A1:1-2|A0:3-3
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-16	_	_	_
+14	_	_	_
+15	_	_	_
+16	be.01	A1:11	A1:1-15
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s67
+# sent_id = test-s67
+# text = அணு மி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	encounter.01	A1:12	A1:12-12
+14	_	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s68
+# sent_id = test-s68
+# text = இந்த ந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	apply.02	A1:2|AM-TMP:4	A1:1-2|AM-TMP:3-4
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-14	_	_	_
+12	_	_	_
+13	_	_	_
+14	be.01	A1:2	A1:1-12
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s69
+# sent_id = test-s69
+# text = இது சர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	be.01	A1:1	A1:1-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s70
+# sent_id = test-s70
+# text = எனவே ச..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s71
+# sent_id = test-s71
+# text = அமெரிக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23-24	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s72
+# sent_id = test-s72
+# text = இந்திய..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	improve.01	A1:15|AM-EXT:17	A1:15-15|AM-EXT:16-17
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23-24	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s73
+# sent_id = test-s73
+# text = இரு நா..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	affect.01	A1:11|AM-MNR:15|AM-MOD:17	A1:10-14|AM-MNR:15-15|AM-MOD:17-17
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s74
+# sent_id = test-s74
+# text = இதனால்..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-14	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	follow.02	A1:15	A1:15-15
+18	_	_	_
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22-24	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s75
+# sent_id = test-s75
+# text = சமீபத்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	vary.01	A1:8	A1:1-13
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s76
+# sent_id = test-s76
+# text = அணு உல..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	apply.02	A1:16|A2:18	A1:16-16|A2:17-18
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s77
+# sent_id = test-s77
+# text = இது அம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	be.01	A1:1	A1:1-1
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s78
+# sent_id = test-s78
+# text = எனவே இ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	solve.01	A1:3|A0:5	A1:2-3|A0:5-5
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	take.01	AM-DIS:1|A0:5	AM-DIS:1-1|A0:5-5
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s79
+# sent_id = test-s79
+# text = இதை நி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	occur.01	A1:21	A1:20-21
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26-27	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29-31	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s80
+# sent_id = test-s80
+# text = அணு வி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	fulfill.01	A1:12|A0:14	A1:7-12|A0:14-14
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-25	_	_	_
+24	_	_	_
+25	_	_	_
+26-28	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s81
+# sent_id = test-s81
+# text = அமெரிக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	show.01	A0:12|A1:23	A0:1-12|A1:22-23
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s82
+# sent_id = test-s82
+# text = இந்திய..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21-22	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-25	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s83
+# sent_id = test-s83
+# text = இந்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	be.01	A1:3	A1:1-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s84
+# sent_id = test-s84
+# text = இதை நி..........
+1	_	_	_
+2	complete.01	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	be.01	A2:3|A1:6	A2:3-3|A1:5-6
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10-12	_	_	_
+10	realize.01	A1:7	A1:2-8
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	mention.01	A1:10|A0:13	A1:1-12|A0:13-13
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s85
+# sent_id = test-s85
+# text = அணுசக்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s86
+# sent_id = test-s86
+# text = ராணுவ ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	remove.01	AM-MOD:7	AM-MOD:7-7
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s87
+# sent_id = test-s87
+# text = காப்பு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s88
+# sent_id = test-s88
+# text = அமெரிக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	come.01	AM-TMP:6	AM-TMP:6-6
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	say.01	A0:1	A0:1-15
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s89
+# sent_id = test-s89
+# text = இலங்கை..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	attend.01	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s90
+# sent_id = test-s90
+# text = கடந்த ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	win.01	AM-TMP:2	AM-TMP:1-2
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s91
+# sent_id = test-s91
+# text = இந்த ந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	try.01	AM-TMP:10|A1:11	AM-TMP:10-10|A1:11-11
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s92
+# sent_id = test-s92
+# text = அமெரிக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	cause.01	A0:9|A1:11	A0:9-9|A1:10-11
+14	try.01	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s93
+# sent_id = test-s93
+# text = அது மட..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	cause.01	A1:4|A0:7	A1:3-4|A0:7-7
+7	_	_	_
+8	try.01	A1:6|A0:7	A1:6-6|A0:7-7
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s94
+# sent_id = test-s94
+# text = இலங்கை..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s95
+# sent_id = test-s95
+# text = நார்வே..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	engage.01	_	_
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s96
+# sent_id = test-s96
+# text = சமீபத்..........
+1	_	_	_
+2	_	_	_
+3	use.01	A1:2	A1:2-2
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-10	_	_	_
+8	_	_	_
+9	_	_	_
+10	be.01	A1:5|A1:7	A1:2-9|A1:2-9
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s97
+# sent_id = test-s97
+# text = சாதாரண..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	wear.01	A0:4|A1:7	A0:2-5|A1:6-7
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	conduct.01	A1:14	A1:7-14
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s98
+# sent_id = test-s98
+# text = இந்த வ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	discover.01	A0:2|A1:6	A0:1-3|A1:5-6
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s99
+# sent_id = test-s99
+# text = தோற்கட..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	engage.01	A1:3	A1:1-5
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s100
+# sent_id = test-s100
+# text = ஆனால் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	integrate.01	A1:3	A1:2-3
+5	try.01	A1:4|A0:7	A1:4-4|A0:7-7
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	specify.01	AM-DIS:1|A0:9|AM-NEG:12	AM-DIS:1-8|A0:9-10|AM-NEG:12-12
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s101
+# sent_id = test-s101
+# text = கடந்த ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	conduct.01	A1:6|AM-NEG:10	A1:6-8|AM-NEG:10-10
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s102
+# sent_id = test-s102
+# text = இந்த ந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	reach.02	A1:7|A0:9	A1:2-7|A0:8-9
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s103
+# sent_id = test-s103
+# text = அவசர ந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	implement.01	A1:4|A0:6	A1:1-4|A0:5-6
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s104
+# sent_id = test-s104
+# text = இந்த ச..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	implement.01	A1:9|A0:10	A1:9-9|A0:10-10
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s105
+# sent_id = test-s105
+# text = எதிர்க..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	use.01	A1:8|A0:12	A1:8-8|A0:12-12
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s106
+# sent_id = test-s106
+# text = ஐ.நா. ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	do.02	A0:13	A0:12-13
+7	_	_	_
+8	_	_	_
+9	be.01	A2:8	A2:8-8
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20-22	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	suggest.01	A0:13	A0:1-14
+26	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s107
+# sent_id = test-s107
+# text = நாடாளு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s108
+# sent_id = test-s108
+# text = ஐ.நா. ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	bring.01	AM-LOC:2|A1:4|A0:9	AM-LOC:2-2|A1:3-4|A0:9-9
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s109
+# sent_id = test-s109
+# text = ஐ.நா. ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s110
+# sent_id = test-s110
+# text = ஆனால் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	see.01	A1:4|A0:6	A1:3-4|A0:6-6
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s111
+# sent_id = test-s111
+# text = இப்போத..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	be.01	A1:1|A1:4|A2:5	A1:1-4|A1:1-4|A2:5-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s112
+# sent_id = test-s112
+# text = ஆனால்,..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	take.01	A0:14|A1:18	A0:14-14|A1:18-18
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	be.01	A1:18|A2:19	A1:17-18|A2:19-19
+21-22	_	_	_
+21	_	_	_
+22	_	_	_
+23	say.01	AM-DIS:1|AM-MOD:24	AM-DIS:1-1|AM-MOD:24-24
+24	_	_	_
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s113
+# sent_id = test-s113
+# text = 1995ல்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-10	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21	see.01	A1:19	A1:18-19
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	look.02	AM-TMP:21|A0:23	AM-TMP:17-22|A0:23-28
+30	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s114
+# sent_id = test-s114
+# text = நமது எ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	be.01	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s115
+# sent_id = test-s115
+# text = ஆனால் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	fulfill.01	AM-DIS:1|AM-TMP:2|A1:3	AM-DIS:1-1|AM-TMP:2-2|A1:3-3
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s116
+# sent_id = test-s116
+# text = மேலும்..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	go.02	AM-DIS:1|A1:2|AM-NEG:6	AM-DIS:1-1|A1:2-2|AM-NEG:6-6
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s117
+# sent_id = test-s117
+# text = 1992-9..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17-18	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	guarantee.01	_	_
+22	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s118
+# sent_id = test-s118
+# text = கடந்த ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s119
+# sent_id = test-s119
+# text = அதாவது..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	close.01	AM-DIS:1|A1:7|AM-TMP:12|AM-MOD:15	AM-DIS:1-1|A1:3-7|AM-TMP:11-12|AM-MOD:15-15
+14	_	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-test.conllu test-s120
+# sent_id = test-s120
+# text = 2022-ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	occur.01	A1:5|A1:8|AM-MOD:10	A1:4-8|A1:4-8|AM-MOD:10-10
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+

@@ -1,0 +1,8450 @@
+# global.columns = ID UP:PRED UP:ARGHEADS UP:ARGSPANS
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s1
+# sent_id = train-s1
+# text = சென்னை..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	take.01	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23-24	_	_	_
+23	promise.01	_	_
+24	_	_	_
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s2
+# sent_id = train-s2
+# text = இது தொ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	publish.01	A0:4|A1:7	A0:4-4|A1:7-7
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s3
+# sent_id = train-s3
+# text = நாடு ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	classify.01	AM-LOC:12|A1:15	AM-LOC:11-12|A1:14-15
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23-24	_	_	_
+23	set_up.03	A1:22	A1:20-22
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s4
+# sent_id = train-s4
+# text = அதன்பட..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	improve.01	A1:12	A1:3-12
+14	_	_	_
+15	_	_	_
+16	create.01	AM-DIS:1|AM-PRP:13|A1:15	AM-DIS:1-1|AM-PRP:13-13|A1:14-15
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s5
+# sent_id = train-s5
+# text = கர்நாட..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	set_up.03	AM-LOC:1|A1:9	AM-LOC:1-1|A1:6-9
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s6
+# sent_id = train-s6
+# text = ஆனால்,..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	set_up.03	AM-LOC:4	AM-LOC:4-4
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28-29	_	_	_
+28	release.01	AM-DIS:1|A0:19|A1:27	AM-DIS:1-1|A0:17-25|A1:26-27
+29	_	_	_
+30	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s7
+# sent_id = train-s7
+# text = மத்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	return.01	A1:15	A1:15-15
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-25	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s8
+# sent_id = train-s8
+# text = இதுகுற..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	publish.01	A0:2|A1:5	A0:2-2|A1:4-5
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s9
+# sent_id = train-s9
+# text = பண்பாட..........
+1	_	_	_
+2	_	_	_
+3	protect.01	A1:2|A3:6	A1:1-2|A3:4-6
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	create.01	A1:6	A1:4-6
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	be.01	A1:11|A2:12	A1:10-11|A2:12-13
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s10
+# sent_id = train-s10
+# text = ஆனால்,..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	form.01	A1:4	A1:3-4
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	protect.01	AM-DIS:1	AM-DIS:1-1
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s11
+# sent_id = train-s11
+# text = அப்படி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	eliminate.01	A1:3|A2:6	A1:2-3|A2:6-7
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s12
+# sent_id = train-s12
+# text = இச்சட்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	advertise.01	_	_
+18	be.01	AM-ADV:2	AM-ADV:2-2
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s13
+# sent_id = train-s13
+# text = புதிய ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	reserve.01	A3:2	A3:1-2
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	build.01	A1:14|AM-NEG:18	A1:13-14|AM-NEG:18-18
+17	_	_	_
+18	_	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s14
+# sent_id = train-s14
+# text = மீறுவோ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s15
+# sent_id = train-s15
+# text = குடும்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17-18	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-25	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28-29	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32-33	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37-38	_	_	_
+37	_	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+41	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s16
+# sent_id = train-s16
+# text = ஏற்கனவ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s17
+# sent_id = train-s17
+# text = இப்பகு..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	provide.01	AM-LOC:2|A1:5|AM-ADV:6|AM-MOD:9	AM-LOC:1-2|A1:4-5|AM-ADV:6-6|AM-MOD:9-9
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s18
+# sent_id = train-s18
+# text = இந்தப்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	live.01	AM-LOC:5	AM-LOC:5-5
+7	provide.01	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	be.01	A1:3	A1:1-14
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s19
+# sent_id = train-s19
+# text = மீன்பி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	fight.01	AM-ADV:4|A1:18|AM-MOD:23	AM-ADV:2-4|A1:17-18|AM-MOD:23-23
+23	_	_	_
+24	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s20
+# sent_id = train-s20
+# text = உலகின்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s21
+# sent_id = train-s21
+# text = அமெரிக..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17-18	_	_	_
+17	_	_	_
+18	_	_	_
+19	keep.02	A0:4	A0:3-4
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23-24	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s22
+# sent_id = train-s22
+# text = இந்திய..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	_	_	_
+23	_	_	_
+24-25	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s23
+# sent_id = train-s23
+# text = ஆசிய ந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	be.01	A1:2|A1:11|AM-ADV:12|A2:15	A1:1-11|A1:1-11|AM-ADV:12-12|A2:13-16
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s24
+# sent_id = train-s24
+# text = இந்தப்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	be.01	A0:2	A0:1-2
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s25
+# sent_id = train-s25
+# text = அமெரிக..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s26
+# sent_id = train-s26
+# text = நியூஸ்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	know.01	A0:2|AM-MNR:9|AM-LOC:12|A1:14	A0:1-3|AM-MNR:8-10|AM-LOC:11-12|A1:13-14
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s27
+# sent_id = train-s27
+# text = வாசகர்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-6	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-9	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	bear.02	A1:17	A1:17-17
+22	want.01	A0:17|A1:21	A0:17-17|A1:21-21
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	ask.01	A2:1|A1:26	A2:1-1|A1:26-26
+28	_	_	_
+29	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s28
+# sent_id = train-s28
+# text = அதற்கா..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-16	_	_	_
+14	inform.01	_	_
+15	_	_	_
+16	be.01	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s29
+# sent_id = train-s29
+# text = இதே சர..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	love.01	AM-EXT:6|A1:10	AM-EXT:6-6|A1:9-10
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	catch.03	A0:21	A0:18-22
+24	_	_	_
+25-26	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s30
+# sent_id = train-s30
+# text = எம்பிக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-10	_	_	_
+8	announce.01	AM-DIS:2	AM-DIS:2-7
+9	_	_	_
+10	be.01	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s31
+# sent_id = train-s31
+# text = முன்னர..........
+1	_	_	_
+2	announce.01	AM-TMP:1	AM-TMP:1-1
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	offer.01	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s32
+# sent_id = train-s32
+# text = முன்னத..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	provide.01	A0:20	A0:19-20
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	_	_	_
+23	be.01	AM-TMP:1	AM-TMP:1-1
+24	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s33
+# sent_id = train-s33
+# text = இதை அர..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	accept.01	A1:1|A0:2|AM-NEG:4	A1:1-1|A0:2-2|AM-NEG:4-4
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s34
+# sent_id = train-s34
+# text = கடந்த ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	raise.01	AM-TMP:2|A1:8	AM-TMP:1-6|A1:7-8
+14	_	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s35
+# sent_id = train-s35
+# text = இதற்கு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	agree.01	A0:1|A1:4|A1:5	A0:1-2|A1:3-5|A1:3-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s36
+# sent_id = train-s36
+# text = ஊதிய உ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	meet.03	_	_
+21	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s37
+# sent_id = train-s37
+# text = இவ்விவ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	promise.01	A1:5|A0:8|AM-TMP:9	A1:2-5|A0:7-8|AM-TMP:9-9
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s38
+# sent_id = train-s38
+# text = இந்த ந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-13	_	_	_
+11	_	_	_
+12	_	_	_
+13	be.01	A1:2	A1:1-2
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s39
+# sent_id = train-s39
+# text = திருநெ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-13	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	speak.01	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s40
+# sent_id = train-s40
+# text = இச்சந்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	come.01	AM-TMP:1|A1:2	AM-TMP:1-1|A1:2-2
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s41
+# sent_id = train-s41
+# text = இது மர..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-11	_	_	_
+9	release.01	A1:5|AM-LOC:12	A1:4-5|AM-LOC:12-12
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-15	_	_	_
+13	inform.01	A1:5|AM-LOC:12	A1:3-5|AM-LOC:12-12
+14	_	_	_
+15	be.01	A1:1	A1:1-1
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s42
+# sent_id = train-s42
+# text = திருச்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	begin.01	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s43
+# sent_id = train-s43
+# text = இத்திர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	take.14	A1:1|AM-MNR:2|AM-TMP:4	A1:1-1|AM-MNR:2-2|AM-TMP:3-4
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s44
+# sent_id = train-s44
+# text = திருவி..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	celebrate.02	AM-TMP:8	AM-TMP:7-9
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s45
+# sent_id = train-s45
+# text = 1.30 ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	hold.01	AM-TMP:2	AM-TMP:1-4
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s46
+# sent_id = train-s46
+# text = 2 மணிக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	hold.04	AM-TMP:2	AM-TMP:1-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s47
+# sent_id = train-s47
+# text = அதனைத்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	happen.01	AM-DIS:1|A1:5	AM-DIS:1-2|A1:3-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s48
+# sent_id = train-s48
+# text = அதிகால..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31-32	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+41	_	_	_
+42	_	_	_
+43	_	_	_
+44	_	_	_
+45	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s49
+# sent_id = train-s49
+# text = இங்கில..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	engage.01	A2:7	A2:2-7
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s50
+# sent_id = train-s50
+# text = சர்வதே..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	engage.01	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s51
+# sent_id = train-s51
+# text = இந்திய..........
+1	_	_	_
+2	provide.01	A0:1	A0:1-1
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	accept.01	A1:6|AM-TMP:7	A1:2-6|AM-TMP:7-7
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	accept.01	AM-TMP:12|A1:16	AM-TMP:12-12|A1:16-16
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	accept.01	A1:21|AM-MNR:22	A1:19-21|AM-MNR:22-22
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	accept.01	A1:21|AM-MNR:26	A1:20-23|AM-MNR:25-27
+29-30	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s52
+# sent_id = train-s52
+# text = பாகிஸ்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	serve.01	AM-LOC:1|A0:3	AM-LOC:1-1|A0:2-9
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s53
+# sent_id = train-s53
+# text = எனவே ஐ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	send.01	AM-DIS:1|A1:10	AM-DIS:1-1|A1:10-10
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	agree.01	AM-DIS:1	AM-DIS:1-1
+22	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s54
+# sent_id = train-s54
+# text = பாகிஸ்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	say.01	A0:9	A0:9-9
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s55
+# sent_id = train-s55
+# text = இலங்கை..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	end.01	A1:6	A1:2-6
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	return.01	A1:17|AM-TMP:18|A4:19	A1:15-17|AM-TMP:18-18|A4:19-19
+21	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s56
+# sent_id = train-s56
+# text = இலங்கை..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	come.01	A1:4|A1:5|AM-TMP:6|A4:8	A1:3-5|A1:3-5|AM-TMP:6-7|A4:8-8
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s57
+# sent_id = train-s57
+# text = பின்னர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s58
+# sent_id = train-s58
+# text = சென்னை..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-7	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-20	_	_	_
+18	organize.01	AM-LOC:22	AM-LOC:21-23
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	attend.01	A1:22	A1:21-22
+24	_	_	_
+25	_	_	_
+26	expect.01	A1:9	A1:1-9
+27	_	_	_
+28	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s59
+# sent_id = train-s59
+# text = இந்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	honor.01	AM-TMP:21|A1:26	AM-TMP:20-21|A1:26-26
+23	_	_	_
+24-25	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	notify.01	A1:26	A1:20-26
+28	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s60
+# sent_id = train-s60
+# text = வெனிசூ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	suggest.01	A0:24	A0:20-24
+26	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s61
+# sent_id = train-s61
+# text = ரஷ்யத்..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	hold.04	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	suggest.01	_	_
+23	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s62
+# sent_id = train-s62
+# text = தென்மே..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	engage.01	A2:5|A1:8	A2:3-5|A1:8-9
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	engage.01	A2:10	A2:7-10
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	suggest.01	A1:16	A1:15-17
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s63
+# sent_id = train-s63
+# text = கங்கைய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	close.01	A1:4	A1:3-4
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s64
+# sent_id = train-s64
+# text = ஆகஸ்ட்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30-31	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s65
+# sent_id = train-s65
+# text = இந்த ந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-11	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	close.01	A1:17	A1:15-17
+19	_	_	_
+20-22	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26-27	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s66
+# sent_id = train-s66
+# text = மாசுக்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	be.01	A2:3	A2:3-3
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	suggest.01	_	_
+21	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s67
+# sent_id = train-s67
+# text = பாகிஸ்..........
+1	_	_	_
+2	_	_	_
+3-5	_	_	_
+3	reach.02	AM-LOC:2|A1:8	AM-LOC:2-2|A1:6-8
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s68
+# sent_id = train-s68
+# text = தண்டனை..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-9	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-17	_	_	_
+15	free.01	A1:14	A1:14-14
+16	_	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s69
+# sent_id = train-s69
+# text = மேலும்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	notify.01	AM-DIS:1|A1:8|A0:16	AM-DIS:1-1|A1:3-10|A0:11-16
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s70
+# sent_id = train-s70
+# text = அரபிக்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	clean.01	_	_
+15	_	_	_
+16	_	_	_
+17-18	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s71
+# sent_id = train-s71
+# text = தான் ஒ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	believe.01	A0:5	A0:5-5
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	worry.02	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	suggest.01	_	_
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s72
+# sent_id = train-s72
+# text = ஒபாமா ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	release.01	_	_
+17	be.01	A1:15	A1:9-16
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s73
+# sent_id = train-s73
+# text = மார்ச்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-8	_	_	_
+6	believe.01	A0:4	A0:3-5
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-15	_	_	_
+12	increase.01	A1:10|AM-TMP:11	A1:10-10|AM-TMP:11-11
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-21	_	_	_
+19	_	_	_
+20	_	_	_
+21	be.01	A1:10|AM-TMP:11	A1:10-10|AM-TMP:11-20
+22	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s74
+# sent_id = train-s74
+# text = மேலும்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-11	_	_	_
+9	trust.02	AM-DIS:1|A0:3|AM-TMP:6|A1:8	AM-DIS:1-1|A0:2-4|AM-TMP:5-6|A1:7-8
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-21	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s75
+# sent_id = train-s75
+# text = தனது ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	worry.02	A1:11|AM-EXT:14|AM-NEG:17	A1:10-11|AM-EXT:14-14|AM-NEG:17-17
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s76
+# sent_id = train-s76
+# text = சூதாட்..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17-18	_	_	_
+17	inform.01	A1:11	A1:2-12
+18	_	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s77
+# sent_id = train-s77
+# text = ஸ்பாட்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-13	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33-34	_	_	_
+33	inquire.01	AM-TMP:31|AM-TMP:32	AM-TMP:30-31|AM-TMP:32-32
+34	_	_	_
+35	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s78
+# sent_id = train-s78
+# text = இதனால்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	consider.01	AM-DIS:1|A1:2	AM-DIS:1-1|A1:2-7
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s79
+# sent_id = train-s79
+# text = இந்த ந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	put.01	A1:19|A2:22|A0:27	A1:18-19|A2:21-22|A0:24-27
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29-30	_	_	_
+29	_	_	_
+30	_	_	_
+31	be.01	A2:29	A2:16-30
+32	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s80
+# sent_id = train-s80
+# text = தற்போத..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	inquire.01	AM-TMP:1|AM-TMP:7	AM-TMP:1-1|AM-TMP:6-7
+9	_	_	_
+10	_	_	_
+11	say.01	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s81
+# sent_id = train-s81
+# text = எனினும..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22-26	_	_	_
+22	appoint.01	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	say.01	AM-DIS:1|A0:15	AM-DIS:1-13|A0:15-20
+28	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s82
+# sent_id = train-s82
+# text = இப்போத..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	be.01	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	notify.01	A0:9|AM-EXT:10	A0:9-9|AM-EXT:10-10
+12	be.01	A1:9	A1:9-9
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s83
+# sent_id = train-s83
+# text = அதிமுக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	come.01	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s84
+# sent_id = train-s84
+# text = சென்னை..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	come.01	A1:9	A1:9-9
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s85
+# sent_id = train-s85
+# text = வரும் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	welcome.01	AM-MNR:2	AM-MNR:1-18
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s86
+# sent_id = train-s86
+# text = அதையடு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	present.01	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s87
+# sent_id = train-s87
+# text = தொடர்ந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	present.01	AM-DIS:1|A1:7|A1:16	AM-DIS:1-1|A1:10-14|A1:16-16
+18	_	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s88
+# sent_id = train-s88
+# text = பின்னர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	present.01	AM-TMP:1	AM-TMP:1-1
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s89
+# sent_id = train-s89
+# text = கொடநாட..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	welcome.01	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s90
+# sent_id = train-s90
+# text = வழியெங..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s91
+# sent_id = train-s91
+# text = ஜெயலலி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	agree.01	A1:12|A1:16	A1:9-16|A1:9-16
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s92
+# sent_id = train-s92
+# text = தமிழக ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s93
+# sent_id = train-s93
+# text = தலைமைச..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s94
+# sent_id = train-s94
+# text = மாலதி ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-13	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-18	_	_	_
+16	provide.01	A2:11	A2:11-15
+17	_	_	_
+18	be.01	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s95
+# sent_id = train-s95
+# text = புதிய ..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	nominate.01	A2:3|A1:8	A2:1-4|A1:7-8
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	compare.01	A1:12	A1:12-14
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s96
+# sent_id = train-s96
+# text = 1977-ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s97
+# sent_id = train-s97
+# text = தஞ்சைய..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	bear.02	AM-PRD:2|A1:5|AM-TMP:7	AM-PRD:2-3|A1:5-5|AM-TMP:7-8
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s98
+# sent_id = train-s98
+# text = தமிழ்,..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	speak.01	A3:1	A3:1-9
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	know.01	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s99
+# sent_id = train-s99
+# text = எம்.எஸ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	study.01	A1:4	A1:3-6
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	study.01	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s100
+# sent_id = train-s100
+# text = திருச்..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	begin.01	A1:10	A1:8-10
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s101
+# sent_id = train-s101
+# text = அடுத்த..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-6	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-17	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	become.01	AM-TMP:2|A0:4	AM-TMP:1-2|A0:3-18
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s102
+# sent_id = train-s102
+# text = 1987-ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	serve.01	AM-TMP:1|A1:4|A1:5	AM-TMP:1-2|A1:3-5|A1:3-5
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s103
+# sent_id = train-s103
+# text = 1992-ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-9	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-17	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	assume.01	AM-TMP:1|A1:18	AM-TMP:1-1|A1:18-18
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s104
+# sent_id = train-s104
+# text = 1996-ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	be.01	AM-TMP:1	AM-TMP:1-2
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s105
+# sent_id = train-s105
+# text = 2001-ம..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	serve.01	AM-TMP:1	AM-TMP:1-12
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s106
+# sent_id = train-s106
+# text = 2006-ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	serve.01	AM-TMP:1|A0:5|A1:6	AM-TMP:1-3|A0:4-5|A1:6-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s107
+# sent_id = train-s107
+# text = கடந்த ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	nominate.01	AM-TMP:3|A1:5|AM-MOD:11	AM-TMP:1-3|A1:4-9|AM-MOD:11-11
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s108
+# sent_id = train-s108
+# text = இதன்பி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s109
+# sent_id = train-s109
+# text = கடந்த ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	be.01	A1:4|A2:7	A1:4-4|A2:5-8
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s110
+# sent_id = train-s110
+# text = அவருக்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	award.01	A0:4|A1:8	A0:3-6|A1:7-9
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s111
+# sent_id = train-s111
+# text = 2008 ச..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	update.01	AM-TMP:2	AM-TMP:1-7
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s112
+# sent_id = train-s112
+# text = சரியாக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	graduate.01	A1:5	A1:5-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s113
+# sent_id = train-s113
+# text = கோவையி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	award.01	A2:5|A2:7	A2:2-9|A2:2-9
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	be.01	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s114
+# sent_id = train-s114
+# text = ஓய்வு ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	say.01	AM-TMP:1|A2:4|A0:5	AM-TMP:1-3|A2:4-4|A0:5-5
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s115
+# sent_id = train-s115
+# text = அரசின்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	conduct.01	A1:7	A1:4-7
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s116
+# sent_id = train-s116
+# text = இந்த க..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	engage.01	A2:3|A0:4	A2:1-3|A0:4-4
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	consider.01	AM-PRD:8|AM-TMP:12|A1:13	AM-PRD:7-8|AM-TMP:11-12|A1:13-14
+16	say.01	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s117
+# sent_id = train-s117
+# text = தலைமைச..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	appoint.01	A2:11	A2:9-13
+15	_	_	_
+16	_	_	_
+17	look.02	A1:14	A1:9-16
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s118
+# sent_id = train-s118
+# text = இதற்கா..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	release.01	A1:2|A0:4|AM-TMP:5|AM-LOC:11	A1:2-2|A0:4-4|AM-TMP:5-5|AM-LOC:9-11
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	inform.01	A0:4	A0:4-4
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s119
+# sent_id = train-s119
+# text = மாநில ..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	gain.02	A1:10	A1:7-10
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s120
+# sent_id = train-s120
+# text = பதவி ந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	appoint.01	A2:15|A1:16	A2:12-15|A1:16-16
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21-22	_	_	_
+21	increase.01	AM-ADV:8	AM-ADV:1-10
+22	be.01	AM-ADV:8|A1:20|A2:21	AM-ADV:2-10|A1:16-20|A2:21-21
+23	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s121
+# sent_id = train-s121
+# text = டிஜிபி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21-23	_	_	_
+21	appoint.01	A1:20	A1:6-18
+22	_	_	_
+23	_	_	_
+24	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s122
+# sent_id = train-s122
+# text = தலைமைச..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	be.01	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s123
+# sent_id = train-s123
+# text = அரசு ந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	appoint.01	A2:7|A1:9	A2:4-7|A1:9-9
+11	_	_	_
+12	be.01	_	_
+13-14	_	_	_
+13	_	_	_
+14	be.01	A0:3	A0:1-13
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s124
+# sent_id = train-s124
+# text = முல்லை..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	break.01	A1:3	A1:2-3
+5	_	_	_
+6	_	_	_
+7	occur.01	A1:6	A1:5-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s125
+# sent_id = train-s125
+# text = இரு மா..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	cause.01	A1:5|A0:10	A1:4-5|A0:9-10
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	say.01	A0:10|A0:11	A0:1-11|A0:1-11
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s126
+# sent_id = train-s126
+# text = கேரளஅர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	build.01	A0:1|A1:6	A0:1-3|A1:5-6
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s127
+# sent_id = train-s127
+# text = முல்லை..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	think.01	A0:13	A0:12-13
+21	_	_	_
+22	_	_	_
+23-24	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	take.01	A0:13|A1:25	A0:12-13|A1:22-25
+27	_	_	_
+28	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s128
+# sent_id = train-s128
+# text = இப்பிர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	conduct.01	A1:3	A1:2-3
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	cause.01	A0:3|A1:10	A0:1-9|A1:10-10
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s129
+# sent_id = train-s129
+# text = ஏற்கென..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	transfer.01	A1:12	A1:11-13
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27-28	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s130
+# sent_id = train-s130
+# text = அனுமதி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	announce.01	A1:10|A0:13	A1:8-11|A0:12-13
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s131
+# sent_id = train-s131
+# text = அணையை ..........
+1	_	_	_
+2	break.01	A1:1	A1:1-1
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s132
+# sent_id = train-s132
+# text = அதற்கா..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	hold.04	A1:4	A1:2-4
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s133
+# sent_id = train-s133
+# text = இந்த அ..........
+1	_	_	_
+2	_	_	_
+3	break.01	A1:2	A1:1-2
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	affect.01	A0:2|A1:12|AM-MOD:14	A0:1-6|A1:7-12|AM-MOD:14-14
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s134
+# sent_id = train-s134
+# text = 2 கோடி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	get.01	A1:4	A1:4-4
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s135
+# sent_id = train-s135
+# text = இதனால்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	feel.01	AM-DIS:1|A0:10|AM-MOD:12	AM-DIS:1-6|A0:10-10|AM-MOD:12-12
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s136
+# sent_id = train-s136
+# text = அணையை ..........
+1	_	_	_
+2	break.01	A1:1	A1:1-1
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	be.01	AM-ADV:2|A1:4|A2:5	AM-ADV:1-2|A1:3-4|A2:5-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s137
+# sent_id = train-s137
+# text = முல்லை..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s138
+# sent_id = train-s138
+# text = இதனால்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	be.01	AM-DIS:1	AM-DIS:1-1
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s139
+# sent_id = train-s139
+# text = வரும் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	conduct.01	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s140
+# sent_id = train-s140
+# text = திராவி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	cause.01	A0:7	A0:6-7
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s141
+# sent_id = train-s141
+# text = இந்த ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	participate.01	A0:5|AM-EXT:6	A0:4-5|AM-EXT:6-6
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	say.01	_	_
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s142
+# sent_id = train-s142
+# text = இலங்கை..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	say.01	_	_
+24	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s143
+# sent_id = train-s143
+# text = இலங்கை..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	meet.02	A1:12	A1:12-12
+14	_	_	_
+15	_	_	_
+16	ask.02	A0:5|R-AM-LOC:7	A0:1-5|R-AM-LOC:7-7
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s144
+# sent_id = train-s144
+# text = வவுனிய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	visit.01	A0:3|A0:4	A0:2-3|A0:4-4
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s145
+# sent_id = train-s145
+# text = அங்குள..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	hear.01	A1:5	A1:5-5
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s146
+# sent_id = train-s146
+# text = "எங்கள..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	help.01	A1:3|A0:6	A1:3-3|A0:6-6
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-17	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	state.01	A2:21|A0:22	A2:21-21|A0:22-22
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s147
+# sent_id = train-s147
+# text = கொழும்..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	take.01	A0:9|AM-TMP:10	A0:9-9|AM-TMP:10-14
+16	_	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s148
+# sent_id = train-s148
+# text = செட்டி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	visit.01	A0:4	A0:4-4
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s149
+# sent_id = train-s149
+# text = வடக்கு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	see.01	A0:11	A0:11-11
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s150
+# sent_id = train-s150
+# text = வெடிக்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	show.01	A1:5|A0:8|AM-TMP:11	A1:5-5|A0:6-10|AM-TMP:11-11
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s151
+# sent_id = train-s151
+# text = பகுதிய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-6	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	present.01	A2:9|A1:11|A0:17	A2:9-9|A1:10-15|A0:17-17
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s152
+# sent_id = train-s152
+# text = பின்னர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	conduct.01	AM-TMP:1|A0:7|A1:8	AM-TMP:1-1|A0:7-7|A1:8-8
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s153
+# sent_id = train-s153
+# text = தமிழர்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21-22	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-25	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s154
+# sent_id = train-s154
+# text = அகதி ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	notify.01	A0:11	A0:11-12
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s155
+# sent_id = train-s155
+# text = அவருடன..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	go.02	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s156
+# sent_id = train-s156
+# text = பின்னர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-6	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	visit.01	AM-TMP:1|A0:11	AM-TMP:1-10|A0:11-11
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s157
+# sent_id = train-s157
+# text = கண்ணி ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	serve.01	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s158
+# sent_id = train-s158
+# text = கண்ணி ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	say.01	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s159
+# sent_id = train-s159
+# text = நிருபம..........
+1	_	_	_
+2	_	_	_
+3	head.02	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	go.02	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s160
+# sent_id = train-s160
+# text = கொழும்..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	look.02	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s161
+# sent_id = train-s161
+# text = ராஜபட்..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s162
+# sent_id = train-s162
+# text = வியாழக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	meet.03	A0:3	A0:1-9
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s163
+# sent_id = train-s163
+# text = தமிழர்..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	announce.01	A0:9|A1:14	A0:9-9|A1:12-14
+16	be.01	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s164
+# sent_id = train-s164
+# text = இதுதவி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	provide.01	AM-DIS:1|A1:9|A0:11	AM-DIS:1-1|A1:5-9|A0:11-11
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s165
+# sent_id = train-s165
+# text = இது தவ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-17	_	_	_
+15	provide.01	_	_
+16	_	_	_
+17	be.01	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s166
+# sent_id = train-s166
+# text = வடக்கு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	provide.01	A1:7|A0:8	A1:6-7|A0:8-8
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s167
+# sent_id = train-s167
+# text = சமீபத்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	donate.01	AM-TMP:1|A1:5|A0:7	AM-TMP:1-1|A1:2-5|A0:7-7
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s168
+# sent_id = train-s168
+# text = தமிழர்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	repair.01	A1:3	A1:2-3
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-10	_	_	_
+8	provide.01	A1:7	A1:5-7
+9	_	_	_
+10	be.01	A1:7	A1:5-9
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s169
+# sent_id = train-s169
+# text = மேலும்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-14	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s170
+# sent_id = train-s170
+# text = இதுதவி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	complete.01	AM-DIS:1|AM-LOC:5|A1:8|A0:9	AM-DIS:1-1|AM-LOC:3-5|A1:6-8|A0:9-9
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s171
+# sent_id = train-s171
+# text = ரயில் ..........
+1	_	_	_
+2	_	_	_
+3	set_up.03	A1:2	A1:1-2
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	engage.01	A2:3|A2:14|A1:15	A2:1-14|A2:1-14|A1:15-15
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s172
+# sent_id = train-s172
+# text = அமெரிக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	be.01	A2:18	A2:18-18
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s173
+# sent_id = train-s173
+# text = அமெரிக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	attend.01	A1:4	A1:3-5
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	be.01	A1:14	A1:11-16
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s174
+# sent_id = train-s174
+# text = நேற்று..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	go.02	_	_
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s175
+# sent_id = train-s175
+# text = விமானம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	conduct.01	A0:11	A0:10-12
+14	_	_	_
+15	look.02	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s176
+# sent_id = train-s176
+# text = இந்தத்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	release.01	_	_
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s177
+# sent_id = train-s177
+# text = விமான ..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-12	_	_	_
+10	notify.01	A0:5|A0:7	A0:1-9|A0:1-9
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17-18	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s178
+# sent_id = train-s178
+# text = எனினும..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	publish.01	AM-DIS:1|A1:5|AM-NEG:11	AM-DIS:1-1|A1:2-5|AM-NEG:11-11
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s179
+# sent_id = train-s179
+# text = கிட்டத..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-16	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-20	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-26	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	speak.01	_	_
+28	_	_	_
+29	_	_	_
+30-31	_	_	_
+30	_	_	_
+31	_	_	_
+32-33	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	say.01	A1:35	A1:22-35
+37	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s180
+# sent_id = train-s180
+# text = அவர்கள..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-15	_	_	_
+13	free.01	A1:10|A1:12	A1:10-10|A1:11-12
+14	_	_	_
+15	_	_	_
+16	look.02	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s181
+# sent_id = train-s181
+# text = இந்தச்..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	order.01	A0:10|A2:13	A0:10-10|A2:13-15
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s182
+# sent_id = train-s182
+# text = அவர்கள..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	return.01	A1:1|AM-TMP:2|A4:3	A1:1-1|AM-TMP:2-2|A4:3-3
+5	_	_	_
+6	look.02	A1:4	A1:4-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s183
+# sent_id = train-s183
+# text = ஜார்க்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s184
+# sent_id = train-s184
+# text = இரு போ..........
+1	_	_	_
+2	_	_	_
+3	hurt.01	A1:2	A1:1-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s185
+# sent_id = train-s185
+# text = ஜாமா வ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	notify.01	_	_
+27	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s186
+# sent_id = train-s186
+# text = சிறப்ப..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	hurt.01	A1:5	A1:1-7
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s187
+# sent_id = train-s187
+# text = இதையடு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	conduct.01	A0:6	A0:4-7
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s188
+# sent_id = train-s188
+# text = விநாயக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	agree.01	A2:5	A2:5-9
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s189
+# sent_id = train-s189
+# text = ரம்ஜான..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	announce.01	AM-ADV:4|A1:13|A0:15|AM-TMP:16	AM-ADV:1-5|A1:7-14|A0:15-15|AM-TMP:16-16
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s190
+# sent_id = train-s190
+# text = இந்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-6	_	_	_
+4	reach.02	AM-LOC:1|AM-LOC:3|A1:8	AM-LOC:1-1|AM-LOC:2-3|A1:7-8
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s191
+# sent_id = train-s191
+# text = குஜராத..........
+1	_	_	_
+2	_	_	_
+3-5	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-17	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21-22	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-26	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s192
+# sent_id = train-s192
+# text = அவர்கள..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17-18	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-25	_	_	_
+24	_	_	_
+25	_	_	_
+26	free.01	A0:1|A1:24	A0:1-1|A1:23-24
+27	_	_	_
+28	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s193
+# sent_id = train-s193
+# text = மொத்தம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s194
+# sent_id = train-s194
+# text = இந்த ஆ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	free.01	AM-TMP:2|A1:5	AM-TMP:1-3|A1:4-5
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-14	_	_	_
+12	ship.01	A1:5|AM-MNR:9	A1:4-5|AM-MNR:9-11
+13	_	_	_
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s195
+# sent_id = train-s195
+# text = தற்போத..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	free.01	A1:4	A1:3-4
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s196
+# sent_id = train-s196
+# text = அல்கொய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	say.01	A0:14	A0:1-14
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s197
+# sent_id = train-s197
+# text = வெள்ளை..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	notify.01	A1:6|AM-MNR:7	A1:6-6|AM-MNR:7-7
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s198
+# sent_id = train-s198
+# text = "பின் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	catch.03	AM-MOD:6	AM-MOD:6-6
+6	_	_	_
+7	_	_	_
+8	kill.01	A1:3|AM-MOD:9	A1:2-4|AM-MOD:9-9
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s199
+# sent_id = train-s199
+# text = அமெரிக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	happen.01	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s200
+# sent_id = train-s200
+# text = இதற்கா..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	sing.01	A0:5	A0:2-12
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s201
+# sent_id = train-s201
+# text = அல்கொய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-9	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	be.01	A1:2|A2:7	A1:1-3|A2:5-9
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	say.01	A0:13	A0:13-13
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s202
+# sent_id = train-s202
+# text = மத்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	focus.01	A1:16|A0:23	A1:9-10|A0:21-25
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27-28	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s203
+# sent_id = train-s203
+# text = ஐஐடியி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s204
+# sent_id = train-s204
+# text = இந்நில..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-13	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21-22	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27-28	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30-31	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s205
+# sent_id = train-s205
+# text = இவர் ஏ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	be.01	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s206
+# sent_id = train-s206
+# text = குஜராத..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	win.01	A0:3|A1:7	A0:1-5|A1:6-7
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s207
+# sent_id = train-s207
+# text = ஆமதாபா..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	win.01	A0:1	A0:1-22
+24	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s208
+# sent_id = train-s208
+# text = சோராபு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	be.01	A1:15	A1:2-20
+22	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s209
+# sent_id = train-s209
+# text = இதுகுற..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	reject.01	A0:16|AM-MOD:18	A0:16-16|AM-MOD:18-18
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	say.01	_	_
+22	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s210
+# sent_id = train-s210
+# text = குஜராத..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	register.02	AM-LOC:3|A1:15	AM-LOC:1-3|A1:10-15
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s211
+# sent_id = train-s211
+# text = தில்லி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	win.01	AM-ADV:3	AM-ADV:1-3
+22	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s212
+# sent_id = train-s212
+# text = இதையடு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	rise.01	A1:7	A1:3-9
+11	be.01	A1:7	A1:3-10
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s213
+# sent_id = train-s213
+# text = இந்நில..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	win.01	AM-LOC:1|A0:4	AM-LOC:1-1|A0:3-15
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s214
+# sent_id = train-s214
+# text = இதுபோல..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s215
+# sent_id = train-s215
+# text = சாகும்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-7	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	ask.02	A1:11	A1:11-11
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21-23	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25-26	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s216
+# sent_id = train-s216
+# text = போரின்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	occur.01	A1:11	A1:9-13
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s217
+# sent_id = train-s217
+# text = இதில்,..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17-18	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s218
+# sent_id = train-s218
+# text = "நீங்க..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	worry.02	A0:2|A1:3	A0:2-2|A1:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s219
+# sent_id = train-s219
+# text = அச்சப்..........
+1	warn.01	AM-NEG:2	AM-NEG:2-2
+2	_	_	_
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s220
+# sent_id = train-s220
+# text = நான் க..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	be.01	A1:1	A1:1-7
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s221
+# sent_id = train-s221
+# text = எனவே, ..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	be.01	AM-DIS:1|A1:3|A2:5	AM-DIS:1-1|A1:3-3|A2:5-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s222
+# sent_id = train-s222
+# text = எனக்கு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17-19	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	ask.01	A0:17|A1:20	A0:17-18|A1:20-20
+22	_	_	_
+23	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s223
+# sent_id = train-s223
+# text = "என்று..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	say.01	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-17	_	_	_
+15	inform.01	_	_
+16	_	_	_
+17	be.01	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s224
+# sent_id = train-s224
+# text = தில்லி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	announce.01	A0:12	A0:1-12
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s225
+# sent_id = train-s225
+# text = இதுகுற..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	publish.01	A0:2|AM-TMP:3|A1:6	A0:2-2|AM-TMP:3-3|A1:5-6
+5	_	_	_
+6	_	_	_
+7-9	_	_	_
+7	say.01	A1:6	A1:5-6
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s226
+# sent_id = train-s226
+# text = தில்லி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-15	_	_	_
+13	call.01	AM-LOC:6|A0:12	AM-LOC:4-10|A0:12-12
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	_	_	_
+23	_	_	_
+24	provide.01	A1:20	A1:18-23
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s227
+# sent_id = train-s227
+# text = ஈழத் த..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25-26	_	_	_
+25	_	_	_
+26	_	_	_
+27-28	_	_	_
+27	_	_	_
+28	be.01	A1:16	A1:7-27
+29	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s228
+# sent_id = train-s228
+# text = அத்துட..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	find.01	AM-DIS:1	AM-DIS:1-1
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	reveal.01	A1:9|A0:12	A1:8-11|A0:12-12
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s229
+# sent_id = train-s229
+# text = ராஜபட்..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	violate.01	A0:1|A1:7	A0:1-1|A1:6-7
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+41	_	_	_
+42	_	_	_
+43	_	_	_
+44	_	_	_
+45-46	_	_	_
+45	ensure.01	A0:28	A0:27-28
+46	_	_	_
+47	_	_	_
+48	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s230
+# sent_id = train-s230
+# text = மத்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	galvanize.01	A0:4	A0:1-8
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s231
+# sent_id = train-s231
+# text = ராஜபட்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	drop.01	A1:3|AM-TMP:4	A1:2-3|AM-TMP:4-4
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	insist.01	A0:8	A0:8-10
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s232
+# sent_id = train-s232
+# text = நாடாளு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	participate.01	A0:2|A1:6	A0:1-4|A1:5-6
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s233
+# sent_id = train-s233
+# text = ஆனால் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	ignore.01	AM-DIS:1|A1:9|A0:10	AM-DIS:1-8|A1:9-9|A0:10-10
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s234
+# sent_id = train-s234
+# text = தமிழகத..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	ignore.01	A0:4|A1:12	A0:1-11|A1:12-12
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	ask.01	A0:4	A0:1-13
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s235
+# sent_id = train-s235
+# text = இவ்வாற..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	notify.01	AM-DIS:1|A0:2|A1:4	AM-DIS:1-1|A0:2-2|A1:3-4
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s236
+# sent_id = train-s236
+# text = கர்நாட..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	implement.01	AM-LOC:2|AM-MOD:7	AM-LOC:2-5|AM-MOD:7-7
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	say.01	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s237
+# sent_id = train-s237
+# text = இதுகுற..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	publish.01	A0:2|AM-TMP:3|A1:6	A0:2-2|AM-TMP:3-3|A1:5-6
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	say.01	A1:6	A1:5-6
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s238
+# sent_id = train-s238
+# text = எடியூர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	demonstrate.01	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17-18	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s239
+# sent_id = train-s239
+# text = கட்சித..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	control.01	A0:3|A1:5	A0:1-4|A1:5-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s240
+# sent_id = train-s240
+# text = மேலும்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	violate.01	A0:3	A0:3-5
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s241
+# sent_id = train-s241
+# text = குரல் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	gain.02	A1:5|A0:9	A1:4-5|A0:9-9
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	win.01	A0:9|A1:10	A0:9-9|A1:10-10
+12	_	_	_
+13	announce.01	A0:9	A0:9-12
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s242
+# sent_id = train-s242
+# text = சட்டப்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	be.01	A1:9	A1:9-17
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s243
+# sent_id = train-s243
+# text = எனவே, ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	delete.01	A1:5	A1:4-5
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	implement.01	AM-DIS:1|AM-LOC:8|AM-MOD:13	AM-DIS:1-1|AM-LOC:8-11|AM-MOD:13-13
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s244
+# sent_id = train-s244
+# text = இவ்வாற..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	inform.01	AM-DIS:1|A0:3|A1:5	AM-DIS:1-1|A0:2-3|A1:4-5
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s245
+# sent_id = train-s245
+# text = மணலி ப..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27-28	_	_	_
+27	announce.01	_	_
+28	_	_	_
+29	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s246
+# sent_id = train-s246
+# text = இதுகுற..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	publish.01	A0:2|AM-TMP:3|A1:6	A0:2-2|AM-TMP:3-3|A1:5-6
+5	_	_	_
+6	_	_	_
+7-9	_	_	_
+7	say.01	A1:6	A1:5-6
+8	be.01	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s247
+# sent_id = train-s247
+# text = சென்னை..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	cause.01	A1:8	A1:8-8
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s248
+# sent_id = train-s248
+# text = சென்னை..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s249
+# sent_id = train-s249
+# text = தி.மு...........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	come.01	_	_
+23	_	_	_
+24-25	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30-31	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+41	_	_	_
+42-44	_	_	_
+42	_	_	_
+43	_	_	_
+44	_	_	_
+45	_	_	_
+46	_	_	_
+47	notify.01	A1:45	A1:45-46
+48	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s250
+# sent_id = train-s250
+# text = மேற்பட..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	affect.01	AM-EXT:11	AM-EXT:11-11
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32-33	_	_	_
+32	affect.01	A1:31|A0:37	A1:30-31|A0:37-37
+33	_	_	_
+34-35	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+39	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s251
+# sent_id = train-s251
+# text = மீனவ வ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	notify.01	A0:15	A0:15-17
+19	_	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s252
+# sent_id = train-s252
+# text = மணலி ப..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+41	_	_	_
+42	_	_	_
+43	_	_	_
+44	_	_	_
+45	_	_	_
+46	_	_	_
+47	_	_	_
+48	_	_	_
+49	_	_	_
+50	_	_	_
+51	_	_	_
+52	_	_	_
+53	_	_	_
+54	_	_	_
+55	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s253
+# sent_id = train-s253
+# text = இவ்வாற..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	notify.01	AM-DIS:1|A0:2|A1:4	AM-DIS:1-1|A0:2-2|A1:3-4
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s254
+# sent_id = train-s254
+# text = ஆப்கான..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	damage.01	AM-LOC:1|A1:6	AM-LOC:1-4|A1:5-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s255
+# sent_id = train-s255
+# text = பக்டிக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	hit.01	AM-LOC:6|A1:15	AM-LOC:1-6|A1:8-15
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s256
+# sent_id = train-s256
+# text = இதில்,..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s257
+# sent_id = train-s257
+# text = ஜபூல் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	occur.01	AM-TMP:12	AM-TMP:11-13
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s258
+# sent_id = train-s258
+# text = இதில்,..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s259
+# sent_id = train-s259
+# text = சாலையி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	hold.04	A1:3|AM-TMP:10	A1:1-9|AM-TMP:10-10
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s260
+# sent_id = train-s260
+# text = ஆப்கனி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s261
+# sent_id = train-s261
+# text = 2000 ப..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s262
+# sent_id = train-s262
+# text = உக்ரைன..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s263
+# sent_id = train-s263
+# text = இன்று ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	occur.01	AM-TMP:1	AM-TMP:1-1
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s264
+# sent_id = train-s264
+# text = அங்குள..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	operate.01	AM-MNR:5|AM-MOD:7	AM-MNR:4-5|AM-MOD:7-7
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s265
+# sent_id = train-s265
+# text = முன்னத..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	close.01	AM-TMP:1|A1:4	AM-TMP:1-1|A1:3-4
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s266
+# sent_id = train-s266
+# text = மேலும்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	come.01	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s267
+# sent_id = train-s267
+# text = ஆனால்,..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	pass.02	AM-DIS:1|A1:8	AM-DIS:1-1|A1:6-8
+10	drive.01	AM-DIS:1|A0:6	AM-DIS:1-1|A0:5-8
+11	_	_	_
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s268
+# sent_id = train-s268
+# text = அப்போத..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	become.01	AM-TMP:1|A1:7	AM-TMP:1-1|A1:3-7
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s269
+# sent_id = train-s269
+# text = இதில்,..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s270
+# sent_id = train-s270
+# text = இந்த வ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	damage.01	AM-LOC:2|A1:4	AM-LOC:1-2|A1:3-4
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s271
+# sent_id = train-s271
+# text = அவர்கள..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	allow.01	A1:1	A1:1-1
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s272
+# sent_id = train-s272
+# text = இதில்,..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	be.01	AM-DIS:1|A1:4	AM-DIS:1-1|A1:3-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s273
+# sent_id = train-s273
+# text = இத்தகவ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	inform.01	A1:1	A1:1-1
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s274
+# sent_id = train-s274
+# text = இந்த வ..........
+1	_	_	_
+2	_	_	_
+3	be.01	A1:2	A1:2-2
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s275
+# sent_id = train-s275
+# text = முதல்வ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s276
+# sent_id = train-s276
+# text = அதிமுக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	attend.01	A0:4|AM-LOC:6	A0:1-4|AM-LOC:6-6
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	ship.01	A0:4|AM-LOC:6	A0:1-4|AM-LOC:6-6
+26	_	_	_
+27	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s277
+# sent_id = train-s277
+# text = இதுகுற..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-6	_	_	_
+4	order.02	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s278
+# sent_id = train-s278
+# text = இந்நில..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-10	_	_	_
+8	leave.12	AM-LOC:1	AM-LOC:1-1
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s279
+# sent_id = train-s279
+# text = இதுகுற..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	say.01	A1:3	A1:2-3
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s280
+# sent_id = train-s280
+# text = முதல்வ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	come.01	A0:1|AM-TMP:7|A1:9	A0:1-5|AM-TMP:6-7|A1:8-9
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s281
+# sent_id = train-s281
+# text = அதில்,..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s282
+# sent_id = train-s282
+# text = எனவே, ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s283
+# sent_id = train-s283
+# text = முதல்வ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	inform.01	A1:13	A1:12-13
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s284
+# sent_id = train-s284
+# text = இந்த க..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	order.01	A0:3	A0:1-14
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s285
+# sent_id = train-s285
+# text = ஆப்கான..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	announce.01	AM-LOC:1|A0:3	AM-LOC:1-1|A0:2-11
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s286
+# sent_id = train-s286
+# text = ஆப்கான..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	engage.01	AM-LOC:1	AM-LOC:1-9
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s287
+# sent_id = train-s287
+# text = இந்நில..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	conduct.01	A0:13|A1:21	A0:13-13|A1:20-21
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s288
+# sent_id = train-s288
+# text = இதில் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	agree.01	A0:13	A0:2-13
+23	_	_	_
+24	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s289
+# sent_id = train-s289
+# text = எனினும..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	deny.01	AM-DIS:1|A1:2|A1:6	AM-DIS:1-1|A1:2-3|A1:5-6
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s290
+# sent_id = train-s290
+# text = இந்திய..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	say.01	A0:6	A0:1-6
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s291
+# sent_id = train-s291
+# text = ஐக்கிய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s292
+# sent_id = train-s292
+# text = ஏறக்கு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	seize.01	A0:6	A0:6-10
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s293
+# sent_id = train-s293
+# text = இதற்கா..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s294
+# sent_id = train-s294
+# text = ஐக்கிய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	feature.01	A1:9	A1:4-9
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s295
+# sent_id = train-s295
+# text = இதனால்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s296
+# sent_id = train-s296
+# text = ஆசியா,..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	compete.01	A0:1	A0:1-12
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	win.01	A0:16|A1:17	A0:16-16|A1:17-17
+19	_	_	_
+20	_	_	_
+21	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s297
+# sent_id = train-s297
+# text = மேற்கு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	be.01	A1:6	A1:1-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s298
+# sent_id = train-s298
+# text = இந்த இ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	fight.01	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s299
+# sent_id = train-s299
+# text = ஆப்பிர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	promise.01	A1:2	A1:1-4
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s300
+# sent_id = train-s300
+# text = இதனால்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	feature.01	AM-DIS:1|A0:5	AM-DIS:1-1|A0:2-13
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s301
+# sent_id = train-s301
+# text = வரும் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20-21	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	suggest.01	AM-TMP:2|A0:25|A1:26	AM-TMP:1-4|A0:22-25|A1:26-26
+28	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s302
+# sent_id = train-s302
+# text = ஐக்கிய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	feature.01	A0:2	A0:1-5
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	gain.02	A1:12	A1:10-12
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s303
+# sent_id = train-s303
+# text = இதன்பட..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	require.01	AM-DIS:1|A2:2|A1:5	AM-DIS:1-1|A2:2-2|A1:3-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s304
+# sent_id = train-s304
+# text = கடைசிய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	feature.01	AM-TMP:1|AM-TMP:2	AM-TMP:1-1|AM-TMP:2-3
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s305
+# sent_id = train-s305
+# text = பாதுகா..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	complete.01	A1:19	A1:18-19
+21	be.01	A1:19	A1:18-20
+22	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s306
+# sent_id = train-s306
+# text = இதையொட..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	compete.01	A0:4	A0:4-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s307
+# sent_id = train-s307
+# text = ஐக்கிய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s308
+# sent_id = train-s308
+# text = ஜெர்மன..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	feature.01	A1:17	A1:15-17
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	get.03	_	_
+23	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s309
+# sent_id = train-s309
+# text = தேர்ந்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	begin.01	A1:3|AM-TMP:6	A1:1-3|AM-TMP:4-9
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s310
+# sent_id = train-s310
+# text = கடந்த ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	come.01	A1:8	A1:5-12
+15	_	_	_
+16	discuss.01	AM-TMP:2	AM-TMP:1-13
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s311
+# sent_id = train-s311
+# text = அப்போத..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	come.01	A1:2	A1:2-2
+5	_	_	_
+6	_	_	_
+7	end.01	AM-MNR:6	AM-MNR:6-6
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	notify.01	AM-TMP:11	AM-TMP:1-9
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s312
+# sent_id = train-s312
+# text = ஐக்கிய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	increase.01	A1:12|AM-MOD:14|A0:18	A1:7-12|AM-MOD:14-14|A0:17-18
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	emphasize.01	AM-TMP:4|A1:13	AM-TMP:1-5|A1:7-20
+22	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s313
+# sent_id = train-s313
+# text = இது மி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s314
+# sent_id = train-s314
+# text = அப்போத..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	throw.01	A1:3	A1:2-3
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	be.01	A1:3|A2:5	A1:2-4|A2:5-5
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	say.01	A0:9|AM-DIS:10	A0:9-9|AM-DIS:10-10
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s315
+# sent_id = train-s315
+# text = அமெரிக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17-18	_	_	_
+17	discuss.01	A1:14|AM-ADV:16	A1:13-15|AM-ADV:16-16
+18	_	_	_
+19	_	_	_
+20	look.02	A0:2|A1:15|A1:17	A0:1-4|A1:6-19|A1:6-19
+21	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s316
+# sent_id = train-s316
+# text = உலக உர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-13	_	_	_
+11	award.01	A1:4	A1:1-4
+12	_	_	_
+13	be.01	A1:4	A1:1-12
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s317
+# sent_id = train-s317
+# text = டோக்கி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-13	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	award.01	A0:15|A1:18	A0:1-15|A1:17-18
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s318
+# sent_id = train-s318
+# text = இந்த ச..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	be.01	AM-TMP:6	AM-TMP:5-8
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s319
+# sent_id = train-s319
+# text = உருக்க..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	award.01	A1:8	A1:6-9
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s320
+# sent_id = train-s320
+# text = 1992-ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	approve.01	AM-TMP:1|A1:4	AM-TMP:1-2|A1:3-4
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s321
+# sent_id = train-s321
+# text = இதுவரை..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s322
+# sent_id = train-s322
+# text = பிரிட்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	receive.01	AM-TMP:9|A1:10	AM-TMP:8-9|A1:10-10
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s323
+# sent_id = train-s323
+# text = தில்லி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	work.01	A1:16	A1:10-16
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s324
+# sent_id = train-s324
+# text = பால் ஹ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	warn.01	AM-DIS:2|AM-TMP:5	AM-DIS:1-2|AM-TMP:4-14
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s325
+# sent_id = train-s325
+# text = மேலும்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	speak.01	AM-DIS:1|AM-DIS:6|A0:7	AM-DIS:1-1|AM-DIS:6-6|A0:7-7
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s326
+# sent_id = train-s326
+# text = பால் ஹ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	arise.02	A0:2	A0:1-4
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s327
+# sent_id = train-s327
+# text = நியூஸி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	reveal.01	A1:5|A1:6	A1:3-6|A1:3-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s328
+# sent_id = train-s328
+# text = ஷீலா த..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	take.01	A0:2|A1:9	A0:1-2|A1:8-9
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s329
+# sent_id = train-s329
+# text = இதையடு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	state.01	A2:10|A1:11	A2:9-10|A1:11-11
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s330
+# sent_id = train-s330
+# text = பால் ஹ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-8	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	guarantee.01	A0:1	A0:1-7
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s331
+# sent_id = train-s331
+# text = இந்நில..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s332
+# sent_id = train-s332
+# text = இதுகுற..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	cause.01	A1:11|A1:12	A1:11-12|A1:11-12
+14	_	_	_
+15	_	_	_
+16-17	_	_	_
+16	expect.01	A1:13|A0:15|AM-NEG:17	A1:11-14|A0:15-15|AM-NEG:17-17
+17	_	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s333
+# sent_id = train-s333
+# text = பிரச்ன..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s334
+# sent_id = train-s334
+# text = எனது வ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	ask.02	A0:1	A0:1-13
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	say.01	A0:1	A0:1-16
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s335
+# sent_id = train-s335
+# text = அமெரிக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	_	_	_
+13	be.01	A1:10	A1:9-12
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s336
+# sent_id = train-s336
+# text = இது, அ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s337
+# sent_id = train-s337
+# text = திருடி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s338
+# sent_id = train-s338
+# text = சிலையை..........
+1	_	_	_
+2	repay.01	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s339
+# sent_id = train-s339
+# text = ரூ. 2 ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	provide.01	A1:4|A0:8	A1:4-4|A0:8-8
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	say.01	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s340
+# sent_id = train-s340
+# text = திருடப..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	make.01	A1:2|A2:5	A1:1-3|A2:4-5
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s341
+# sent_id = train-s341
+# text = இது தி..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	know.01	A0:1|A1:2|AM-NEG:4	A0:1-1|A1:2-2|AM-NEG:4-4
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s342
+# sent_id = train-s342
+# text = சிலைகள..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	think.01	A1:8	A1:7-12
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s343
+# sent_id = train-s343
+# text = ஹூஸ்டன..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	be.01	A2:6	A2:6-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s344
+# sent_id = train-s344
+# text = இந்த ஆ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	come.01	_	_
+13	_	_	_
+14	conduct.01	A0:5	A0:1-13
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s345
+# sent_id = train-s345
+# text = கர்நாட..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	welcome.01	AM-LOC:6	AM-LOC:2-6
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s346
+# sent_id = train-s346
+# text = மொத்தம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-16	_	_	_
+15	_	_	_
+16	_	_	_
+17	report.01	_	_
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s347
+# sent_id = train-s347
+# text = திங்கட..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	vote.01	A0:11|AM-TMP:12	A0:11-11|AM-TMP:12-15
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s348
+# sent_id = train-s348
+# text = நம்பிக..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	negotiate.01	A1:4	A1:4-6
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s349
+# sent_id = train-s349
+# text = காமன்வ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	win.01	A0:1|A1:10	A0:1-5|A1:6-10
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s350
+# sent_id = train-s350
+# text = இன்று ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	fail.01	AM-TMP:1	AM-TMP:1-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s351
+# sent_id = train-s351
+# text = முதல் ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	capture.01	A1:11	A1:9-11
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s352
+# sent_id = train-s352
+# text = இறுதிய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	win.01	A0:6	A0:6-6
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s353
+# sent_id = train-s353
+# text = வாங் வ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	receive.01	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s354
+# sent_id = train-s354
+# text = சாய்னா..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s355
+# sent_id = train-s355
+# text = இதன் ம..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	present.01	AM-MNR:1|A1:5|A2:7	AM-MNR:1-4|A1:5-5|A2:6-7
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s356
+# sent_id = train-s356
+# text = 37 தங்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	be.01	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s357
+# sent_id = train-s357
+# text = இலங்கை..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	come.01	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17-18	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s358
+# sent_id = train-s358
+# text = தில்லி..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	attend.01	A0:5	A0:5-10
+12-13	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17-19	_	_	_
+17	call.01	A1:15	A1:14-16
+18	_	_	_
+19	be.01	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s359
+# sent_id = train-s359
+# text = அவரது ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	agree.01	A1:3	A1:2-3
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	conduct.01	A0:18|AM-LOC:21|A1:22	A0:15-18|AM-LOC:19-21|A1:22-22
+24	_	_	_
+25	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s360
+# sent_id = train-s360
+# text = கோவை த..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	burn.01	_	_
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s361
+# sent_id = train-s361
+# text = இதையடு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	make.01	A0:10	A0:10-11
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s362
+# sent_id = train-s362
+# text = இதேபோல..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	burn.01	_	_
+23	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s363
+# sent_id = train-s363
+# text = இதையடு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s364
+# sent_id = train-s364
+# text = நம்பிக..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	conduct.01	A1:2	A1:2-2
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	agree.01	AM-MOD:13	AM-MOD:13-13
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	reject.01	A1:16	A1:15-19
+21	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s365
+# sent_id = train-s365
+# text = தகுதிந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	conform.01	A1:10|A1:11	A1:10-11|A1:10-11
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s366
+# sent_id = train-s366
+# text = எனினும..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-8	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	conform.01	A1:9|AM-MOD:11	A1:9-9|AM-MOD:11-11
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	suggest.01	AM-DIS:1|A0:14	AM-DIS:1-12|A0:13-15
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s367
+# sent_id = train-s367
+# text = பின்னர..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	bring.01	A0:7	A0:7-9
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	be.01	AM-TMP:1	AM-TMP:1-1
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s368
+# sent_id = train-s368
+# text = பொங்கல..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	_	_	_
+15	sell.01	A1:11|AM-TMP:13	A1:11-11|AM-TMP:12-13
+16	solve.01	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s369
+# sent_id = train-s369
+# text = பொங்கல..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	celebrate.02	A1:2|AM-TMP:4	A1:1-2|AM-TMP:3-6
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s370
+# sent_id = train-s370
+# text = இதையொட..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	come.01	_	_
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s371
+# sent_id = train-s371
+# text = இதனால்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s372
+# sent_id = train-s372
+# text = ஜனவரி ..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	begin.01	AM-TMP:10	AM-TMP:10-13
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s373
+# sent_id = train-s373
+# text = முன்பத..........
+1	_	_	_
+2-3	_	_	_
+2	start.01	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19-20	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	sell.01	A1:21|AM-TMP:23	A1:5-21|AM-TMP:22-23
+25	_	_	_
+26	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s374
+# sent_id = train-s374
+# text = சில ரய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	register.02	A1:6|AM-MNR:8	A1:3-6|AM-MNR:7-8
+11	be.01	A1:6	A1:1-10
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s375
+# sent_id = train-s375
+# text = பொது வ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	affect.01	AM-EXT:14	AM-EXT:14-14
+16	_	_	_
+17	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s376
+# sent_id = train-s376
+# text = 1949 அ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	connect.01	AM-TMP:2|A1:6	AM-TMP:1-5|A1:6-6
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22-23	_	_	_
+22	_	_	_
+23	be.01	A1:17	A1:14-22
+24	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s377
+# sent_id = train-s377
+# text = இதனால்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	affect.01	AM-DIS:1|AM-EXT:5	AM-DIS:1-1|AM-EXT:5-5
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s378
+# sent_id = train-s378
+# text = போக்கு..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	notify.01	A0:2	A0:1-12
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s379
+# sent_id = train-s379
+# text = மேலும்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-12	_	_	_
+10	close.01	AM-DIS:1|A1:9	AM-DIS:1-6|A1:8-9
+11	_	_	_
+12	be.01	AM-DIS:1|A1:9	AM-DIS:1-6|A1:8-11
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s380
+# sent_id = train-s380
+# text = எனினும..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	occur.01	A1:6	A1:6-7
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s381
+# sent_id = train-s381
+# text = மணிப்ப..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	merge.01	A1:1	A1:1-3
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s382
+# sent_id = train-s382
+# text = மனித ந..........
+1	_	_	_
+2	_	_	_
+3	serve.01	A0:6	A0:6-8
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	leave.12	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s383
+# sent_id = train-s383
+# text = சென்னை..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	begin.01	_	_
+38	_	_	_
+39	_	_	_
+40	_	_	_
+41-42	_	_	_
+41	_	_	_
+42	_	_	_
+43	_	_	_
+44	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s384
+# sent_id = train-s384
+# text = சேப்பா..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-14	_	_	_
+12	build.01	A1:11	A1:7-11
+13	_	_	_
+14	be.01	A1:11	A1:7-13
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s385
+# sent_id = train-s385
+# text = என்னுட..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	configure.01	A1:1	A1:1-4
+6	be.01	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s386
+# sent_id = train-s386
+# text = இந்தத்..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4-6	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	be.01	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s387
+# sent_id = train-s387
+# text = இந்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	use.01	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	provide.01	A1:12|A0:14|AM-TMP:15|A2:17	A1:12-12|A0:13-14|AM-TMP:15-15|A2:16-17
+19	be.01	AM-TMP:15	AM-TMP:15-17
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s388
+# sent_id = train-s388
+# text = அதைப் ..........
+1	_	_	_
+2	look.01	A1:1	A1:1-1
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	arise.02	A1:15	A1:15-17
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s389
+# sent_id = train-s389
+# text = இதனால்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	announce.01	AM-DIS:1|AM-MNR:4|A1:5	AM-DIS:1-1|AM-MNR:3-4|A1:5-5
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24-26	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31-32	_	_	_
+31	_	_	_
+32	_	_	_
+33	_	_	_
+34	_	_	_
+35	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s390
+# sent_id = train-s390
+# text = இந்திய..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14-15	_	_	_
+14	_	_	_
+15	_	_	_
+16	spend.02	_	_
+17	_	_	_
+18-20	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	_	_	_
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29	_	_	_
+30	_	_	_
+31	_	_	_
+32	_	_	_
+33	spend.02	_	_
+34	_	_	_
+35	_	_	_
+36	_	_	_
+37	_	_	_
+38	give.01	_	_
+39	_	_	_
+40	_	_	_
+41	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s391
+# sent_id = train-s391
+# text = தமிழ்ந..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	do.02	A0:2|AM-REC:3|A1:4	A0:1-2|AM-REC:3-3|A1:4-4
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s392
+# sent_id = train-s392
+# text = முதலில..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	assign.01	AM-TMP:1|A1:2	AM-TMP:1-1|A1:2-2
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s393
+# sent_id = train-s393
+# text = பிறகு,..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	raise.01	A1:6	A1:5-6
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15-17	_	_	_
+15	increase.01	AM-TMP:1|A1:6|A1:8|AM-TMP:9|AM-ADV:11	AM-TMP:1-1|A1:5-8|A1:5-8|AM-TMP:9-9|AM-ADV:10-11
+16	_	_	_
+17	be.01	AM-DIS:1|A1:6|A1:8|AM-TMP:9|A2:15	AM-DIS:1-1|A1:5-8|A1:5-8|AM-TMP:9-11|A2:12-16
+18	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s394
+# sent_id = train-s394
+# text = அந்தத்..........
+1	_	_	_
+2	_	_	_
+3	use.01	A1:2	A1:1-2
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13-14	_	_	_
+13	_	_	_
+14	be.01	A1:9	A1:6-12
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s395
+# sent_id = train-s395
+# text = மருத்த..........
+1	_	_	_
+2	_	_	_
+3	build.01	A1:2	A1:2-2
+4	_	_	_
+5	_	_	_
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s396
+# sent_id = train-s396
+# text = அங்கே ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	show.01	A1:3|A0:5	A1:3-3|A0:5-5
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s397
+# sent_id = train-s397
+# text = அந்தக்..........
+1	_	_	_
+2-4	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18-19	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+21	_	_	_
+22	become.01	A0:17|A1:21	A0:17-17|A1:20-21
+23	_	_	_
+24	_	_	_
+25	_	_	_
+26	_	_	_
+27	_	_	_
+28	_	_	_
+29-30	_	_	_
+29	_	_	_
+30	be.01	A1:26	A1:25-29
+31	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s398
+# sent_id = train-s398
+# text = அந்தப்..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	fulfill.01	A1:2|AM-MNR:5|A0:6	A1:1-2|AM-MNR:3-5|A0:6-6
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	save.02	A1:12	A1:12-12
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	serve.01	A1:16|AM-MOD:18	A1:16-16|AM-MOD:18-18
+18	_	_	_
+19	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s399
+# sent_id = train-s399
+# text = அரசுக்..........
+1	_	_	_
+2	_	_	_
+3	be.01	A1:2	A1:2-2
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Tamil-TTB/ta_ttb-ud-train.conllu train-s400
+# sent_id = train-s400
+# text = அரசுக்..........
+1	_	_	_
+2	cooperate.01	A2:1|AM-MOD:3|A1:5	A2:1-1|AM-MOD:3-3|A1:5-10
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12-13	_	_	_
+12	ask.01	AM-NEG:13	AM-NEG:13-13
+13	_	_	_
+14	_	_	_
+
