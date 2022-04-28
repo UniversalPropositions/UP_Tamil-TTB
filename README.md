@@ -1,4 +1,4 @@
-# UP_Russian-SynTagRus
+# UP_Tamil-TTB
 
 
 ## Data Format
